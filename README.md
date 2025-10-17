@@ -45,6 +45,5 @@
 ---
 
 ## 🌐 連絡先
-- GitHub: [github.com/EmiriTerukina](https://github.com/)  
-- Email: emiri@example.com  
-- LinkedIn: [linkedin.com/in/emiri-terukina](https://linkedin.com/)
+- GitHub: [github.com/EmiriTerukina](https://github.com/itc-s24019)  
+- Email: s24019@std.it-college.ac.jp
