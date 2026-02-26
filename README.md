@@ -11,8 +11,20 @@
 ## 💼 プロジェクト一覧
 | プロジェクト名 | 概要 | 担当・役割 |
 |----------------|------|-------------|
-| 🎨 杜の賑わいHP | デザイン、コーディング |
-| 📚 Google Books検索サイト | APIとBootstrapを利用した書籍検索サイト | フロントエンド制作、API連携 |
+| 🎨 おすすめグルメ紹介 | デザイン、コーディング、資料作成 |
+| 📚 出席管理アプリ | 画面設計、UI構築、資料作成 |
+
+## 🔗 作品URL
+📚 [出席管理アプリ](https://github.com/itc-ss24007/school-attendance-system)
+🍜 [おすすめグルメ紹介](https://github.com/itc-s24019/Food_trip?tab=readme-ov-file)
+
+
+## 📸 スクリーンショット
+
+### メイン機能の画面
+<img src="https://github.com/user-attachments/assets/01c63b9e-5a78-4412-a6be-e1285698e2bf" alt="メイン画面1" width="48%">
+<img src="https://github.com/user-attachments/assets/7a6f6866-6205-4d61-afff-ceeca66af170" alt="メイン画面2" width="48%">
+
 
 ---
 
